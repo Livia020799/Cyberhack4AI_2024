@@ -27,20 +27,6 @@ Inspired by the French platform "Campus France," **StudentBridge** is an all-in-
 - Multilingual interface.
 - Targeted partnerships with service providers.
 
-## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/cybernetic-defenders
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the system:
-   ```bash
-   python main.py
-   ```
-
 ## Team
 - **Cybernetic Defenders**: Elias Antoun, [Laura Thoft Cesario](https://github.com/laurathoft), [Diego Ciciani](https://github.com/diego-ciciani01), [Livia Oddi](https://github.com/Livia020799), Yousef Kanj, Toffano Marta
 
