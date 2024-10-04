@@ -30,6 +30,6 @@ Inspired by the French platform "Campus France," **StudentBridge** is an all-in-
 - Targeted partnerships with service providers.
 
 ## Team
-- **Cybernetic Defenders**: Elias Antoun, [Laura Thoft Cesario](https://github.com/laurathoft), [Diego Ciciani](https://github.com/diego-ciciani01), [Livia Oddi](https://github.com/Livia020799), Yousef Kanj, Toffano Marta
+- **Cybernetic Defenders**: Elias Antoun, [Laura Thoft Cesario](https://github.com/laurathoft), [Diego Ciciani](https://github.com/diego-ciciani01), [Livia Oddi](https://github.com/Livia020799), [Yousef Kanj](https://github.com/Ykanj), [Toffano Marta](https://github.com/Marta1301)
 
 
