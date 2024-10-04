@@ -1,8 +1,6 @@
 # CyberHack4AI Hackathon Project - Cybernetic Defenders
 ![image](https://github.com/user-attachments/assets/35b16ae3-8493-40e9-876b-c521025da81c)
 
-Here’s an updated version of your **README** with the achievement of winning 2nd place mentioned upfront:
-
 ---
 ## Overview
 We are proud to announce that **Cybernetic Defenders** won **2nd place** in the **CyberHack4AI Hackathon**, held at **Sapienza University of Rome** from **October 1 to 3, 2024**. The hackathon challenged participants to develop innovative solutions using **AI** and **cybersecurity** techniques to solve real-world problems. 
