@@ -5,7 +5,9 @@
 ## Overview
 We are proud to announce that **Cybernetic Defenders** won **2nd place** in the **CyberHack4AI Hackathon**, held at **Sapienza University of Rome** from **October 1 to 3, 2024**. The hackathon challenged participants to develop innovative solutions using **AI** and **cybersecurity** techniques to solve real-world problems. 
 
-Our project, **StudentBridge**, was designed to address the struggles international students face when moving to Italy, especially with housing, legal documentation, and university processes. The solution provides an AI-driven platform with an embeded chatbot that centralizes critical information and resources for students, making their transition smoother.
+Our project, **StudentBridge**, was designed to address the struggles international students face when moving to Italy, especially with housing, legal documentation, and university processes. The solution provides an AI-driven platform with an embedded chatbot that centralizes critical information and resources for students, making their transition smoother.
+
+For more details, you can find our final presentation in the repository, titled `StudentBridge Project`.
 
 ## Project Goal
 Our team, **Cybernetic Defenders**, tackled the **AI for Students and Teachers** challenge. We built **StudentBridge**, an AI-powered information hub aimed at solving the common issues faced by international students when moving to Italy. The system focuses on assisting students with bureaucratic processes, housing, legal documentation, and university applications.
