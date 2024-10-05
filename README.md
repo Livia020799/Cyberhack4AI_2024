@@ -10,12 +10,14 @@ Our project, **StudentBridge**, was designed to address the struggles internatio
 For more details, you can find our final presentation in the repository, titled `StudentBridge Project`.
 
 ## Project Goal
-Our team, **Cybernetic Defenders**, tackled the **AI for Students and Teachers** challenge. We built **StudentBridge**, an AI-powered information hub aimed at solving the common issues faced by international students when moving to Italy. The system focuses on assisting students with bureaucratic processes, housing, legal documentation, and university applications.
+Our team, **Cybernetic Defenders**, tackled the **AI for Students and Teachers** challenge. We built **StudentBridge**, an AI-powered information hub aimed at solving the common issues faced by international students when moving to Rome. The system focuses on assisting students with bureaucratic processes, housing, legal documentation, and university applications.
 
 Inspired by the French platform "Campus France," **StudentBridge** is an all-in-one portal offering centralized guidance through a web platform and a chatbot, which helps students in their native language. Key features include:
 - Information on housing, legal documentation, and university procedures.
 - Regular updates and frequently asked questions.
 - Partnerships with local businesses offering targeted services, such as banks and housing agencies.
+
+Our long-term vision is to scale the platform, first expanding to cover all of Italy and eventually extending throughout Europe, providing international students with comprehensive support across various regions.
 
 ## How it Works
 **StudentBridge** acts as a comprehensive digital assistant for students, offering personalized responses to inquiries about accommodation, legal requirements, and university procedures. The platform is powered by AI models that enable:
