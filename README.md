@@ -32,6 +32,6 @@ Our long-term vision is to scale the platform, first expanding to cover all of I
 - Targeted partnerships with service providers.
 
 ## Team
-- **Cybernetic Defenders**: Elias Antoun, [Laura Thoft Cesario](https://github.com/laurathoft), [Diego Ciciani](https://github.com/diego-ciciani01), [Livia Oddi](https://github.com/Livia020799), [Yousef Kanj](https://github.com/Ykanj), [Taffone Marta](https://github.com/Marta1301)
+- **Cybernetic Defenders**:[Elias Antoun](https://github.com/EliasAntoun7), [Laura Thoft Cesario](https://github.com/laurathoft), [Diego Ciciani](https://github.com/diego-ciciani01), [Livia Oddi](https://github.com/Livia020799), [Yousef Kanj](https://github.com/Ykanj), [Taffone Marta](https://github.com/Marta1301)
 
 
